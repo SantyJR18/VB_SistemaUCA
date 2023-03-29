@@ -1,0 +1,12 @@
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\bin\Debug\SistemaUCA.exe.config
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\bin\Debug\SistemaUCA.exe
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\bin\Debug\SistemaUCA.pdb
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\bin\Debug\SistemaUCA.xml
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.vbprojAssemblyReference.cache
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.FrmPrincipal.resources
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.Resources.resources
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.vbproj.GenerateResource.cache
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.vbproj.CoreCompileInputs.cache
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.exe
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.xml
+C:\Users\Isi11\Desktop\Proyectos\SistemaUCA\SistemaUCA\obj\Debug\SistemaUCA.pdb
